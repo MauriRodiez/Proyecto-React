@@ -1,0 +1,23 @@
+.boxCard{
+    background-color: aliceblue;
+    border: #333 solid 1px;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 15px;
+}
+
+.boxCard li{
+    background-color: #fff;
+    border: #999 solid 1px;
+    font-size: 1.2rem;
+    margin: 15px;
+    padding: 15px;
+}
+
+.car{
+    color: midnightblue;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}

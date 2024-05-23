@@ -10,7 +10,6 @@ function App() {
     <>
       <h1>Carga de estudiantes</h1>
       <Form />
-      <Card message = "Hoa soy una tarjeta" />
     </>
   )
 }
